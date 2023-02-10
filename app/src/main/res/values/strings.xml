@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile_Homework1</string>
+    <string name="input_hint">Input a number from 0 to 999,999,999</string>
+    <string name="convert">Convert</string>
+</resources>
